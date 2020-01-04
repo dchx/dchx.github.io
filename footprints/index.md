@@ -1,8 +1,8 @@
-\>=县级。**加粗**：过夜。普通：踏足车站/机场/服务区外。
+\>= County level. **bold**: overnight. normal: stepped outside station/airport/service area.
 
-\>=市级。**_加粗斜体_**：踏足车站/机场/服务区内。_斜体_：交通工具内。
+\>= City level. **_bold italic_**: stepped inside station/airport/service area. _italic_: inside vehicle.
 
-# 中国
+# China
 
 - **北京**（东城、**西城**、**朝阳**、丰台、石景山、**海淀**、**昌平**、怀柔、密云、延庆）
 - **天津**（河西、河东、和平、**南开**、河北、红桥）
@@ -81,7 +81,7 @@
 <!--*澳门-->
 <!--*台湾-->
 
-# 美国
+# United States
 
 - **Alabama**
   - **Talladega National Forest**
@@ -116,7 +116,8 @@
 - **Washington**
   - **Seattle**
 
-# 英国
+# United Kingdom
+
 - **London**
 - Oxfordshire
   - Oxford
