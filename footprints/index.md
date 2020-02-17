@@ -4,6 +4,8 @@
 
 # China
 
+![photo(c)https://commons.wikimedia.org/wiki/File:China_Prefectural-level.png](footprints.png)
+
 - **北京**（东城、**西城**、**朝阳**、丰台、石景山、**海淀**、**昌平**、怀柔、密云、延庆）
 - **天津**（河西、河东、和平、**南开**、河北、红桥）
 - **河北**
