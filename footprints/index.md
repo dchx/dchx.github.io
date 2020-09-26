@@ -35,8 +35,8 @@
   - **合肥**（蜀山、瑶海、庐阳、**包河**）、**安庆**（宜秀）、**黄山市**（**屯溪**、**歙县**）
   - _芜湖_、_蚌埠_、_马鞍山_、_滁州_、**_阜阳_**、_宿州_、_六安_、_亳州_、_池州_、_宣城_
 - **福建**
-  - **福州**（**鼓楼**、台江、仓山、**晋安**、**马尾**、**长乐**、福清、**闽侯**、永泰、**平潭**）、**厦门**（**思明**、湖里、集美、同安）、**泉州**（**丰泽**、鲤城、洛江、石狮、晋江、南安、惠安）、**漳州**（**长泰**、**东山**、南靖）、**南平**（延平、**武夷山**）、**宁德**（**福鼎**）
-  - _莆田_、**_三明_**、**_龙岩_**
+  - **福州**（**鼓楼**、台江、仓山、**晋安**、**马尾**、**长乐**、福清、**闽侯**、永泰、**平潭**）、**厦门**（**思明**、湖里、集美、同安）、**莆田**（**秀屿**）、**泉州**（**丰泽**、鲤城、洛江、石狮、晋江、南安、惠安）、**漳州**（**长泰**、**东山**、南靖）、**南平**（延平、**武夷山**）、**宁德**（**福鼎**）
+  - **_三明_**、**_龙岩_**
 - 江西
   - 南昌（东湖、西湖）、九江（浔阳、濂溪）
   - _景德镇_、_萍乡_、_新余_、_鹰潭_、_宜春_、**_抚州_**、_上饶_
@@ -97,6 +97,7 @@
   - **Orlando**, Jacksonville, Tampa, St. Petersburg, Clearwater, Titusville, Daytona Beach, **Gainesville**, Micanopy, St. Augustine, St. Augustine Beach, Palatka, Cedar Key, Bronson, Crystal River, Tavares
 - Georgia
   - Savannah
+  - **_Hartsfield–Jackson Atlanta International Airport_**
 - **Louisiana**
   - **New Orleans**，Vacherie
 - **Massachusetts**
@@ -137,5 +138,10 @@
   - York, Hessle
 - Nottinghamshire
   - Edwinstowe, Rufford
+
+# South Korea
+
+- **_Incheon_**
+  - **_Incheon International Airport_**
 
 ### [World Heritage Sites](worldheritage)
