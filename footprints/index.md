@@ -86,6 +86,8 @@
 
 # United States
 
+![photo(c)https://commons.wikimedia.org/wiki/File:Blank_US_Map_(states_only).svg](footprints_us.svg)
+
 - **Alabama**
   - **Talladega National Forest**
 - **Arizona**
